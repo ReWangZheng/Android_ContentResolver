@@ -13,4 +13,4 @@ path:一般都是该程序中的某个表名
         
         Uri uri=Uri.parse("content://com.exampe.wz/table1");
         
-由了这个URI对象，我们就可以进行CRUD的操作啦
+由了这个URI对象，我们就可以进行CRUD的操作啦！！！！！
